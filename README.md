@@ -1,5 +1,8 @@
 # Machine_Learning-Project
-This project aims at building an abstract text summarizer using deep learning
+This project aims at building an abstract text summarizer using deep learning.
 
-#thusvhl
-hjdso
+Extractive Text Summarization VS Abstractive Text Summarization
+
+
+
+
